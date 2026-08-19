@@ -100,5 +100,5 @@ Power BI
 
 ## 📫 Connect with me
 
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your professional email]
+- LinkedIn: www.linkedin.com/in/nabilanatashaothman
+- Email: nabilaothman.work@gmail.com
