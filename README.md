@@ -1,6 +1,6 @@
 ## Hi, I'm Nabila 👋
 
-### Data Analyst | SQL | Snowflake | Power BI | Python
+### Data Analyst | SQL | Snowflake | Power BI | Python | Azure Event Hubs | Databricks | Terraform
 
 I am a Data Analyst focused on building end-to-end data solutions,
 from data ingestion and transformation to analytics and business intelligence.
@@ -13,6 +13,7 @@ My interests include:
 - ETL / ELT
 - Data Modeling
 - Business Intelligence
+- Machine Learning
 
 ---
 
