@@ -20,7 +20,7 @@ My day-to-day work covers ETL and data integration into SQL Server and Power BI,
 Batch and event-driven ingestion, a data-quality gate, ML, a SQL serving layer and BI, with Terraform and Azure DevOps CI/CD.
 
 ```text
-ADF (batch, ~1.7M rows) ──┐
+ADF (batch, ~1.7M rows)  ──┐
                            ├─► ADLS Bronze ─► DQ gate ─► Silver (+ Quarantine / Audit)
 Event Hubs replay (~140K) ─┘                                │
                                                             ▼
